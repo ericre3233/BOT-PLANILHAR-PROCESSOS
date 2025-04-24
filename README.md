@@ -1,1 +1,1 @@
-• Desenvolvimento de BOT para automação de tarefas repetitivas, com integração a sistemas como o SEI (Sistema Eletrônico de Informações) e planilhas Excel, incluindo preenchimento de formulários, controle de navegação e execução de rotinas em sistemas web e desktop. 
+BOT para automação de tarefas repetitivas, com integração a sistemas como o SEI (Sistema Eletrônico de Informações) e planilhas Excel, incluindo preenchimento de formulários, controle de navegação e execução de rotinas em sistemas web e desktop. 
